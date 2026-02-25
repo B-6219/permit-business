@@ -106,7 +106,6 @@ const Verify = () => {
     return (
         <div className="verify-container">
             <div className="verify-card">
-
                 <div className="header">
                     <h1>Official Business Verification</h1>
                     <span className={`status-badge ${isVerified ? "verified" : "not-verified"}`}>
@@ -117,13 +116,6 @@ const Verify = () => {
                 <div className="divider" />
 
                 <div className="info-grid">
-                    {/* <div>
-                        <h3>Owner Details</h3>
-                        <p><strong>Name:</strong> {client.ownerName}</p>
-                        <p><strong>Email:</strong> {client.email}</p>
-                        <p><strong>Phone:</strong> {client.phone}</p>
-                        <p><strong>National ID:</strong> {client.nationalId}</p>
-                    </div> */}
 
                     <div>
                         <h3>Business Details</h3>
