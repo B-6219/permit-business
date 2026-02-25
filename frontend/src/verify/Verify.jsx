@@ -69,7 +69,21 @@ const clientData = [
             status: "Active",
             unit: 'A10'
         }
-    }
+    },
+    {
+        id: "cccc",
+        ownerName: "Shaggy",
+        email: "shaggy@email.com",
+        business: {
+            name: "ShaggyElecricals",
+            licenseNumber: "UWT171438",
+            location: "2ND FLOOR PILOT BUILDING, NAIROBI",
+            effectiveDate: "16 February 2026",
+            expiryDate: "15 February 2027",
+            status: "Active",
+            unit: 'A10'
+        }
+    },
 
 ]
 
