@@ -84,6 +84,20 @@ const clientData = [
             unit: 'A10'
         }
     },
+    {
+        id: "dddd",
+        ownerName: "Muthoni Wanjiku",
+        email: "muthoni@email.com",
+        business: {
+            name: "G-Start Electrical",
+            licenseNumber: "UWT171438",
+            location: "Waranga House, Sheikh Karume Road",
+            effectiveDate: "16 February 2026",
+            expiryDate: "15 February 2027",
+            status: "Active",
+            unit: 'A14'
+        }
+    },
 
 ]
 
