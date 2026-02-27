@@ -106,9 +106,9 @@ const clientData = [
         business: {
             name: "LampStand lectricals",
             licenseNumber: "ULS444165",
-            location: "Waranga House, Sheikh Karume Road",
-            effectiveDate: "16 February 2026",
-            expiryDate: "15 February 2027",
+            location: "Duruma Rd Nairobi Central Starehe, Nairobi",
+            effectiveDate: "17 February 2026",
+            expiryDate: "16 February 2027",
             dateofIssue: "17 February 2026",
             status: "Active",
             unit: 'A13'
