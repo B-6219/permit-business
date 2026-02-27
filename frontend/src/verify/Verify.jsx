@@ -90,12 +90,13 @@ const clientData = [
         email: "muthoni@email.com",
         business: {
             name: "G-Start Electrical",
-            licenseNumber: "UWT171438",
+            licenseNumber: " UGS114556",
             location: "Waranga House, Sheikh Karume Road",
-            effectiveDate: "16 February 2026",
-            expiryDate: "15 February 2027",
+            effectiveDate: "19 February 2026",
+            expiryDate: "18 February 2027",
+            dateofIssue: "19 February 2026",
             status: "Active",
-            unit: 'A14'
+            unit: '4'
         }
     },
     {
