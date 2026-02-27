@@ -91,7 +91,7 @@ const clientData = [
         business: {
             name: "G-Start Electrical",
             licenseNumber: " UGS114556",
-            location: "Waranga House, Sheikh Karume Road",
+            location: "",
             effectiveDate: "19 February 2026",
             expiryDate: "18 February 2027",
             dateofIssue: "19 February 2026",
@@ -104,7 +104,7 @@ const clientData = [
         ownerName: "Muthoni Wanjiku",
         email: "muthoni@email.com",
         business: {
-            name: "LampStand Electricals",
+            name: "LampStand Eclectricals",
             licenseNumber: "ULS444165",
             location: "Duruma Rd Nairobi Central Starehe, Nairobi",
             effectiveDate: "17 February 2026",
