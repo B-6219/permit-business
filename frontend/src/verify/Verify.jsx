@@ -104,7 +104,7 @@ const clientData = [
         ownerName: "Muthoni Wanjiku",
         email: "muthoni@email.com",
         business: {
-            name: "LampStand lectricals",
+            name: "LampStand Electricals",
             licenseNumber: "ULS444165",
             location: "Duruma Rd Nairobi Central Starehe, Nairobi",
             effectiveDate: "17 February 2026",
