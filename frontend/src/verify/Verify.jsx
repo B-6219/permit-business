@@ -98,6 +98,21 @@ const clientData = [
             unit: 'A14'
         }
     },
+    {
+        id: "eeee",
+        ownerName: "Muthoni Wanjiku",
+        email: "muthoni@email.com",
+        business: {
+            name: "LampStand lectricals",
+            licenseNumber: "ULS444165",
+            location: "Waranga House, Sheikh Karume Road",
+            effectiveDate: "16 February 2026",
+            expiryDate: "15 February 2027",
+            dateofIssue: "17 February 2026",
+            status: "Active",
+            unit: 'A13'
+        }
+    },
 
 ]
 
@@ -137,6 +152,7 @@ const Verify = () => {
                         <p><strong>License Number:</strong> {client.business.licenseNumber}</p>
                         <p><strong>Location:</strong> {client.business.location}</p>
                         <p><strong>Unit:</strong> {client.business.unit}</p>
+                        <p><strong>Date of Issue:</strong> {client.business.effectiveDate}</p>
                         {client.business.effectiveDate && (
                             <p><strong>Effective Date:</strong> {client.business.effectiveDate}</p>
                         )}
