@@ -114,6 +114,21 @@ const clientData = [
             unit: 'A13'
         }
     },
+        {
+        id: "ffff",
+        ownerName: "Muthoni Wanjiku",
+        email: "muthoni@email.com",
+        business: {
+            name: "PineWire Services Limited",
+            licenseNumber: "UPS444123",
+            location: "Plot 288/140/66, 2ND Floor Gikira House Duruma Rd Nairobi Central Starehe, Nairobi",
+            effectiveDate: "04 March 2026",
+            expiryDate: "03 March 2027",
+            dateofIssue: "04 March 2026",
+            status: "Active",
+            unit: 'A13'
+        }
+    },
 
 ]
 
