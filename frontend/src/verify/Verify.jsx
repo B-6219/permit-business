@@ -114,7 +114,7 @@ const clientData = [
             unit: 'A13'
         }
     },
-        {
+    {
         id: "ffff",
         ownerName: "Muthoni Wanjiku",
         email: "muthoni@email.com",
@@ -127,6 +127,21 @@ const clientData = [
             dateofIssue: "04 March 2026",
             status: "Active",
             unit: 'A13'
+        }
+    },
+    {
+        id: "gggg",
+        ownerName: "Muthoni Wanjiku",
+        email: "muthoni@email.com",
+        business: {
+            name: "Curtis Watch Repair",
+            licenseNumber: "UBP139544",
+            location: "Loitoktok Hse,River Rd,Nairobi Central,Starehe,Nairobi",
+            effectiveDate: "20 April 2026",
+            expiryDate: "19 April 2027",
+            dateofIssue: "20 April 2026",
+            status: "Active",
+            unit: 'Ground, Floor Loitotok Hse'
         }
     },
 
