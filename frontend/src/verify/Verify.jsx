@@ -144,6 +144,20 @@ const clientData = [
             unit: 'Ground, Floor Loitotok Hse'
         }
     },
+        {
+        id: "zzzz",
+        ownerName: "Muthoni Wanjiku",
+        email: "muthoni@email.com",
+        business: {
+            name: "ENKALIGHT ELECTRIC-STAREHE",
+            licenseNumber: "UEL444123",
+            location: "1-09 1st Floor,Pilot Building,",
+            effectiveDate: "10 AUG 2026",
+            expiryDate: "9 AUG 2027",
+            status: "Active",
+            unit: '209/138/48,Duruma Road,Nairobi Central,Starehe,Nairobi'
+        }
+    }
 
 ]
 
